@@ -1,7 +1,6 @@
 body {
 	max-width: 1920px;
 	margin: auto;
-	font-family: 'Inter', sans-serif;
 }
 
 * {
@@ -43,7 +42,6 @@ body {
 
 .social-link img {
 	width: 20px;
-	height: 20px;
 }
 
 #about {
