@@ -141,6 +141,10 @@ body {
 	padding: .5em;
 }
 
+.visually-hidden {
+	display: none;
+}
+
 .mg-prev,
 .mg-next {
 	width: 30px;
