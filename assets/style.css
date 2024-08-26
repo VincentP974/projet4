@@ -143,6 +143,8 @@ body {
 
 .visually-hidden {
 	display: none;
+	color: #000;
+	background-color: #E5975F;
 }
 
 .mg-prev,
