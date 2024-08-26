@@ -141,12 +141,6 @@ body {
 	padding: .5em;
 }
 
-.visually-hidden {
-	display: none;
-	color: #000;
-	background-color: #E5975F;
-}
-
 .mg-prev,
 .mg-next {
 	width: 30px;
